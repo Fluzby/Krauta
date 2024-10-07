@@ -1,4 +1,4 @@
-# Krauta
+# K-rauta
 
 **Uses**
 - Browse and Purchase Products
