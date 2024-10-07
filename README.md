@@ -5,7 +5,6 @@
 - Add Products to Cart and Buy
 - Join the Loyalty Program (Smart Net)
 - View and Track Orders
-- The website allows users to track their orders and manage their purchase history.
 - Access User Accounts
 - Create an Account
 - Log In
